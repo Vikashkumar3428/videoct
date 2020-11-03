@@ -32,7 +32,7 @@ class Movies extends Component {
                     const channelTitle =bolly.snippet.channelTitle
                     const videoId = bolly.id.videoId
                     const description = bolly.snippet.description
-                    const embed ='https://www.youtube.com/embed/'
+                    const embed ='https://www.youtube.com/embed/'+ videoId
                     return (
                       
                       <Link to={{
@@ -40,7 +40,7 @@ class Movies extends Component {
                       details:{
                         name: title,
                         title:channelTitle,
-                        src:embed+ videoId,
+                        src:embed,
                         description:description
                   }
                     }}
