@@ -14,18 +14,7 @@ class TV extends Component {
   //   .then(res => this.setState({itemslist: [...res.items]}))
   // }
      render() {
-  //   let response_series = this.state.itemslist.map((seri, index) => {
-  //     return (
-        
  
-  //           <div className="utube_card px-xs-2  px-md-4 ">
-  //           <img src="https://i.ytimg.com/vi/O8_xIj0Nzx4/hqdefault.jpg" alt=""/>
-  //         </div>
- 
-
-  //         );
-  //   })
-
         return(
                 <div className="main">
                 <h1 className="text-light {response_series} text-center display-1">Tv Serials</h1>
@@ -36,7 +25,7 @@ class TV extends Component {
                     const channelTitle =bolly.snippet.channelTitle
                     const videoId = bolly.id.videoId
                     const description = bolly.snippet.description
-                    const embed ='https://www.youtube.com/embed/'
+                    const embed ='https://www.youtube.com/embed/' + videoId
                     return (
                       
                       <Link to={{
@@ -44,7 +33,7 @@ class TV extends Component {
                       details:{
                         name: title,
                         title:channelTitle,
-                        src:embed+ videoId,
+                        src:embed,
                         description:description
                   }
                     }}
