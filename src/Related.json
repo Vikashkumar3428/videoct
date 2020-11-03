@@ -1,0 +1,105 @@
+ [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v4lGunRE2CXYQl-3H3Yit83LsJM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A9GyVeV1Yu8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-28T18:59:59Z",
+        "channelId": "UCgCudMsK-kxYxB2RgiS3bzQ",
+        "title": "Friends: Funniest Moments of Season 3 (Mashup) | TBS",
+        "description": "Explore the ups and downs of Ross and Rachel's relationship, Chandler and Joey's constant bickering, and other hilarious iconic moments with the rest of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A9GyVeV1Yu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A9GyVeV1Yu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A9GyVeV1Yu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TBS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-28T18:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dxp_TOfihmMCgPbMlqlDZ4SD8Wk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O6Iiy_YOe4Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-20T00:59:46Z",
+        "channelId": "UCgCudMsK-kxYxB2RgiS3bzQ",
+        "title": "Friends: Best Moments From Season 2 (Mashup) | TBS",
+        "description": "Watch the cast of Friends in season 2 as we go through some of the best, funniest, and most iconic moments in this compilation! 0:00 - Monica Cheats on Rachel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6Iiy_YOe4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6Iiy_YOe4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6Iiy_YOe4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TBS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-20T00:59:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EAgB3hWqArgmi-jWefnwWSQvxmg",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL4VjYMnxdYuX5mEFq9JtL1BzbApfb41fM"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-01T06:40:54Z",
+        "channelId": "UCA8VUdED3_-blWQjH7TsPhg",
+        "title": "Friends season 8",
+        "description": "Scenes from the Series.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a5qiIrbKPt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a5qiIrbKPt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a5qiIrbKPt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Favorite Videos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-01T06:40:54Z"
+      }
+    }
+  ]
+
