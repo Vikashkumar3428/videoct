@@ -37,11 +37,11 @@
   display: flex;
 }
 
-
+/* 
 .card1{
   width: auto;
   transition: transform .5s ease;
-}
+} */
 .card 
 {
   width: 18vw;
